@@ -7,6 +7,7 @@
 	"url": "https://raw.githubusercontent.com/used-as-cdn/media-player/master/",
 	"artists": {
 		"blende": {
+			"name": "Blende",
 			"url": "https://raw.githubusercontent.com/used-as-cdn/media-player/master/artists/blende",
 			"songs": {
 				"fake-love": {
@@ -15,6 +16,7 @@
 			}
 		},
 		"caius": {
+			"name": "Caius",
 			"url": "https://raw.githubusercontent.com/used-as-cdn/media-player/master/artists/caius",
 			"songs": {
 				"private-nurse": {
@@ -23,6 +25,7 @@
 			}
 		},
 		"jarami": {
+			"name": "Jarami",
 			"url": "https://raw.githubusercontent.com/used-as-cdn/media-player/master/artists/jarami",
 			"songs": {
 				"good-together": {
@@ -31,6 +34,7 @@
 			}
 		},
 		"mad3e": {
+			"name": "Mad3e",
 			"url": "https://raw.githubusercontent.com/used-as-cdn/media-player/master/artists/mad3e",
 			"songs": {
 				"morning-lights": {
