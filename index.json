@@ -1,0 +1,42 @@
+{
+	"help": {
+		"get-artist-cover": "{base url}/{artist slug}/artist-cover.jpg",
+		"get raw song": "{base url}/{artist slug}/{song slug}.jpg",
+		"get song cover": "{base url}/{artist slug}/{song slug}-cover.jpg"
+	},
+	"url": "https://raw.githubusercontent.com/used-as-cdn/media-player/master/",
+	"artists": {
+		"blende": {
+			"url": "https://raw.githubusercontent.com/used-as-cdn/media-player/master/artists/blende",
+			"songs": {
+				"fake-love": {
+					"title": "Fake love"
+				}
+			}
+		},
+		"caius": {
+			"url": "https://raw.githubusercontent.com/used-as-cdn/media-player/master/artists/caius",
+			"songs": {
+				"private-nurse": {
+					"title": "Emil Germ - Private nurse (remix)"
+				}
+			}
+		},
+		"jarami": {
+			"url": "https://raw.githubusercontent.com/used-as-cdn/media-player/master/artists/jarami",
+			"songs": {
+				"good-together": {
+					"title": "Honne - Good together (remix)"
+				}
+			}
+		},
+		"mad3e": {
+			"url": "https://raw.githubusercontent.com/used-as-cdn/media-player/master/artists/mad3e",
+			"songs": {
+				"morning-lights": {
+					"title": "Slows - Morning lights (feat. Clarens)"
+				}
+			}
+		}
+	}
+}
